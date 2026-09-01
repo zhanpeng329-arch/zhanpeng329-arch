@@ -39,6 +39,8 @@
   <img alt="3D 贡献图" src="./profile-3d-contrib/profile-green-animate.svg" />
 </picture>
 
+<sub>提交量 / Issue / PR / Review / 仓库数雷达图与语言占比，每日自动更新</sub>
+
 </div>
 
 ---
@@ -128,21 +130,6 @@ Feel free to reach me at **contact@figpad.ai**.
 </td>
 </tr>
 </table>
-
----
-
-## 📈 GitHub 数据
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=zhanpeng329-arch&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&locale=cn&theme=default&title_color=6f42c1&icon_color=6f42c1" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhanpeng329-arch&layout=compact&langs_count=8&hide_border=true&locale=cn&theme=default&title_color=6f42c1" alt="top languages"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zhanpeng329-arch&theme=github-compact&hide_border=true&area=true" alt="activity graph"/>
-
-</div>
 
 ---
 
