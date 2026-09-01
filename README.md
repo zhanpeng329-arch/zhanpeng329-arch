@@ -12,7 +12,6 @@
 
 <a href="https://yila.ai"><img src="https://img.shields.io/badge/主力产品-yila.ai-0A66C2?style=for-the-badge" alt="yila.ai"/></a>
 <a href="mailto:zipp@yila.ai"><img src="https://img.shields.io/badge/邮箱-zipp%40yila.ai-EA4335?style=for-the-badge&logo=maildotru&logoColor=white" alt="email"/></a>
-<img src="https://komarev.com/ghpvc/?username=zhanpeng329-arch&style=for-the-badge&color=6f42c1&label=%E4%B8%BB%E9%A1%B5%E8%AE%BF%E5%AE%A2" alt="views"/>
 
 </div>
 
