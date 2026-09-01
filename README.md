@@ -10,7 +10,7 @@
 面向科研场景的 Agent SaaS，具备持久化会话、人机协同确认门与积分计费。
 
 <a href="https://yila.ai"><img src="https://img.shields.io/badge/产品-yila.ai-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="yila.ai"/></a>
-<a href="mailto:contact@figpad.ai"><img src="https://img.shields.io/badge/邮箱-contact%40figpad.ai-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+<a href="mailto:zipp@yila.ai"><img src="https://img.shields.io/badge/邮箱-zipp%40yila.ai-EA4335?style=for-the-badge&logo=maildotru&logoColor=white" alt="email"/></a>
 <img src="https://komarev.com/ghpvc/?username=zhanpeng329-arch&style=for-the-badge&color=6f42c1&label=%E4%B8%BB%E9%A1%B5%E8%AE%BF%E5%AE%A2" alt="views"/>
 
 </div>
@@ -51,7 +51,7 @@
 - 🧱 我同样在意"上线之后"的那一半工作——数据库迁移、发布围栏、零残留发布流程，以及**可复现、可复算的验证证据**，而不只是一个能跑的 Demo。
 - 🎓 就读于 **中国传媒大学**，常驻北京。
 - 🛠️ 当前主力技术栈：**TypeScript / Next.js / PostgreSQL / Node.js / Python**。
-- 📫 联系方式：**contact@figpad.ai**
+- 📫 联系方式：**zipp@yila.ai**
 
 <details>
 <summary><b>English version (click to expand)</b></summary>
@@ -66,7 +66,7 @@ credit-based metering. I care as much about the unglamorous half of shipping —
 release fences, zero-drain deploys and re-runnable evidence — as I do about the demo.
 
 Mainly working with **TypeScript / Next.js / PostgreSQL / Node.js / Python**.
-Feel free to reach me at **contact@figpad.ai**.
+Feel free to reach me at **zipp@yila.ai**.
 
 </details>
 
